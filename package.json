@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/fuadajip/nodejsbasic/issues"
   },
-  "homepage": "https://github.com/fuadajip/nodejsbasic#readme"
+  "homepage": "https://github.com/fuadajip/nodejsbasic#readme",
+  "dependencies": {
+
+  }
 }

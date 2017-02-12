@@ -9,9 +9,9 @@ $ node -v
 ## Running Locally
 
 ```sh
-$ git clone https://github.com/fuadajip/nodejsbasic.git # or clone your own fork
-$ cd nodejsbasic
-$ npm install --save nodejs
+$ git clone https://github.com/fuadajip/nodejsbasic.git
+$ cd nodejsbasic/dir
+$ node -v
 $ node [file].js
 ```
 
