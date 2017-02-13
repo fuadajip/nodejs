@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/fuadajip/nodejsbasic#readme",
   "dependencies": {
-
+    "nodemon": "^1.11.0"
   }
 }
